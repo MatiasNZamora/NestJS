@@ -29,6 +29,8 @@ El objetivo es mantener un entorno organizado y accesible para la revisión de c
 | 🧾 **Reportes PDFs NestJS** | Servicio backend para generación de reportes en PDF utilizando NestJS, TypeORM y plantillas dinámicas. | [Ver proyecto](https://github.com/MatiasNZamora/Reportes-PDFs-NestJs) |
 | 🏞️ **Talampaya Backend** | API backend desarrollada para la gestión de datos turísticos del Parque Nacional Talampaya. | [Ver proyecto](https://github.com/MatiasNZamora/Talampaya-backend) |
 | 🛒 **TesloShop Backend** | API completa de e-commerce desarrollada con NestJS, autenticación JWT y PostgreSQL. | [Ver proyecto](https://github.com/MatiasNZamora/tesloshop-backend) |
+| ⚡ **NestJS GraphQL API** | API desarrollada con NestJS y GraphQL utilizando Code First, autenticación JWT, relaciones en PostgreSQL, paginaciones, filtros y despliegue con Docker. | [Ver proyecto](https://github.com/MatiasNZamora/Nest-GraphQL) |
+
 
 ---
 
@@ -38,6 +40,7 @@ El objetivo es mantener un entorno organizado y accesible para la revisión de c
 - **TypeScript** – Tipado estático y robustez en el desarrollo  
 - **TypeORM** – ORM para bases de datos SQL  
 - **PostgreSQL / MongoDB** – Bases de datos relacionales y NoSQL  
+- **GraphQL** – APIs flexibles y eficientes para el consumo de datos  
 - **JWT & Passport** – Autenticación y autorización  
 - **Docker** – Contenedorización y despliegue  
 - **Testing (Jest)** – Pruebas unitarias y de integración  
@@ -87,3 +90,4 @@ src/
 <p align="center">
   <sub>Desarrollado con ❤️ y NestJS • © 2025 Matías N. Zamora</sub>
 </p>
+
